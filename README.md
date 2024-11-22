@@ -5,4 +5,5 @@
 
 
 图片欣赏：
-     <img src="img/1.png" style="zoom: 25%;" />              <img src="img/2.png" style="zoom:25%;" />
+
+​     <img src="img/1.png" style="zoom: 25%;max-width: 31%;"/>              <img src="img/2.png" style="zoom:25%;max-width: 31%;" />
